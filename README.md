@@ -1,3 +1,4 @@
+![logo](https://github.com/JaydeepSahu/JaydeepSahu/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Jaydeep Kumar Sahu</h1>
 <h3 align="center"> C# Rocks with .NET!✌️ A Passionate Full-Stack Software Engineer with 2+ years of Experience from India</h3>
 

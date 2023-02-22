@@ -14,13 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jaydeep-kumar-sahu-6aa4a71a4/](https://www.linkedin.com/in/jaydeep-kumar-sahu-6aa4a71a4/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jaydeep-kumar-sahu-6aa4a71a4/](https://www.linkedin.com/in/jaydeep-kumar-sahu-6aa4a71a4/)
-
 - 💬 Ask me about **.Net, .Net Core, ASP.Net MVC, C#,MS SQL Server Database, Angular14,**
 
 - 📫 How to reach me **kumarsahujaydeep@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o1pOMZpdCL8GHbGnDwLc5M1Nil01P_Mi/view?usp=sharing](https://drive.google.com/file/d/1o1pOMZpdCL8GHbGnDwLc5M1Nil01P_Mi/view?usp=sharing)
+- 📄 Know about my Experience on (https://jaydeepsahu.github.ii)
 
 - ⚡ Fun fact **I think I'm a Talky Person with Fun and Enjoy(A Happy Person Forever)...**
 

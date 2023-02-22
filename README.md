@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kumarsahujaydeep@gmail.com**
 
-- 📄 Know about my Experience on (https://jaydeepsahu.github.ii)
+- 📄 Know about my Experience on (https://jaydeepsahu.github.io)
 
 - ⚡ Fun fact **I think I'm a Talky Person with Fun and Enjoy(A Happy Person Forever)...**
 
